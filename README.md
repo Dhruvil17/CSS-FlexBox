@@ -18,7 +18,7 @@ If the Flex-Direction: Column, then the Main Axis is Vertical and Cross Axis is 
 Content always goes along the Main Axis. (Unless any changes)
 
 
-# Parent Element - Flex Container
+# Parent Element-Flex Container
 
 Flex Container properties:
 
@@ -48,7 +48,7 @@ It has values like flex-start, flex-end, center, space-around, space-between
 It aligns across the cross axis. 
 
 
-# Child Elements - Flex Items
+# Child Elements-Flex Items
 
 Flex Items Properties:
 
