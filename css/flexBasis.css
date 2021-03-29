@@ -1,0 +1,28 @@
+body {
+   background-color: #1a2849;
+}
+
+.flex-container {
+   flex-direction: row;
+   justify-content: flex-start;
+}
+
+h4 {
+   text-align: center;
+}
+
+.sample1 div:nth-child(2) {
+   flex-basis: 200px;
+}
+
+.sample2 > * {
+   flex-basis: 33%;
+}
+
+.sample3 > * {
+   flex: 0 1 auto;
+}
+
+.sample4 > * {
+   flex: 1 2 25%;
+}

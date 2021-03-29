@@ -1,0 +1,34 @@
+body {
+   background-color: #fe6845;
+}
+
+.flex-container {
+   flex-direction: row;
+   height: 240px;
+   align-items: flex-start;
+}
+
+.sample1 div:nth-child(2) {
+   align-self: flex-start;
+}
+
+.sample2 div:nth-child(2) {
+   align-self: flex-end;
+}
+
+.center div:nth-child(4) {
+   align-self: center;
+}
+
+.stretch div:nth-child(3) {
+   align-self: stretch;
+}
+
+.column-center {
+   flex-direction: column;
+   height: 400px;
+}
+
+.column-center div:nth-child(2) {
+   align-self: center;
+}
