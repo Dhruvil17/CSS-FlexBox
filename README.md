@@ -1,15 +1,15 @@
 # CSS-Flexbox
 This repo contains all the code that I wrote for practicing the CSS Flexbox and its various properties. 
 
-# Notes of CSS-Flexbox
-There are 2 major parts of Flexbox
+## Notes of CSS-Flexbox
+### There are 2 major parts of Flexbox
 1. Flexbox Axes
 2. Understanding that everything in the Flexbox contains of Parent element and Child elements. 
 
 Parent Element - Flex Container
 Child Element - Flex Items
 
-Flexbox Axes:
+### Flexbox Axes:
 1. Main Axis (Main of the Flex Container)
 2. Cross Axis (Perpendicular to Main Axis)
 
@@ -18,7 +18,7 @@ If the Flex-Direction: Column, then the Main Axis is Vertical and Cross Axis is 
 Content always goes along the Main Axis. (Unless any changes)
 
 
-# Parent Element-Flex Container
+## Parent Element-Flex Container
 
 Flex Container properties:
 
@@ -48,7 +48,7 @@ It has values like flex-start, flex-end, center, space-around, space-between
 It aligns across the cross axis. 
 
 
-# Child Elements-Flex Items
+## Child Elements-Flex Items
 
 Flex Items Properties:
 
